@@ -8,3 +8,4 @@ setup(
     maintainer='Kenny Johansson',
 )
 
+# Whee!
