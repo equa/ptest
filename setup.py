@@ -1,4 +1,7 @@
 from setuptools import setup
 
-setup()
+setup(
+    name='ptest',
+    packages=['ptest'],
+)
 
