@@ -5,5 +5,6 @@ setup(
     packages=['ptest'],
     url='http://www.equa.se',
     author='Kenny Johansson',
+    maintainer='Kenny Johansson',
 )
 
